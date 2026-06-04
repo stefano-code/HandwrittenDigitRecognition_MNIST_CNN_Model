@@ -17,6 +17,8 @@ This project demonstrates the entire machine learning workflow:
 
 Handwritten digit recognition is one of the most popular introductory computer vision problems.
 
+<img width="2842" height="1127" alt="mnist" src="https://github.com/user-attachments/assets/76de3d47-bb06-49eb-ba32-90737b8bb533" />
+
 In this project, a CNN is trained to classify grayscale images of handwritten digits into one of ten classes:
 
 ```text
