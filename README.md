@@ -351,10 +351,3 @@ This project is provided for educational and research purposes.
 
 Feel free to modify, extend, and use the code in your own projects.
 
-Questo README è già adatto a GitHub. Se il repository è pubblico, ti consiglio anche di aggiungere in cima:
-
-* uno screenshot di alcune cifre MNIST;
-* un diagramma della CNN;
-* badge per Python, TensorFlow e License;
-* una sezione "Sample Predictions" con esempi reali di output del modello. Questi elementi aumentano molto la qualità percepita del repository.
-
